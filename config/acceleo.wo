@@ -1,0 +1,28 @@
+# Available commands:
+# clear database
+# learn context				(root)
+# process changes			(p4|git, root, branch, start date, end date)
+# extract keywords			(maximal count)
+# extract global keywords	(maximal count)
+# extract ownership         (team|author, threshold between 1 and 100)
+
+
+task learn context
+	acceleo
+
+task extract global keywords
+	100
+
+task process changes
+	git
+	acceleo
+	master
+	2008-01-01
+	2015-05-11
+
+task extract keywords
+	20
+
+task extract ownership
+	team
+	20

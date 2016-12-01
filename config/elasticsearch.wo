@@ -1,0 +1,28 @@
+# Available commands:
+# clear database
+# learn context				(root)
+# process changes			(p4|git, root, branch, start date, end date)
+# extract keywords			(maximal count)
+# extract global keywords	(maximal count)
+# extract ownership         (team|author, threshold between 1 and 100)
+
+
+# Stejne jako Elasticsearch 2 pro porovnani vylepseni extrakce slov
+# Extrakce klicovych slov, bez teamu (team = clovek)
+
+#task learn context
+#	elasticsearch
+#
+#task extract global keywords
+#	100
+#
+#task process changes
+#	git
+#	elasticsearch
+#	master
+#	2015-01-01
+#	2015-05-02
+
+task extract ownership
+	team
+	20

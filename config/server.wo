@@ -1,0 +1,12 @@
+# inliner index.html > inlined.html
+
+
+#task match keywords and code
+
+task server
+	80
+	c:\programovani\diplomka\web\inlined.html
+
+#task extract keywords
+#	100000
+

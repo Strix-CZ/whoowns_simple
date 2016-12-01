@@ -1,0 +1,79 @@
+# Useful git command: git shortlog -s -n -e
+
+#default team other
+#ignore changes of team bot
+
+# Acceleo
+
+team lgoubet
+	# 1667 commits  
+	lgoubet
+	laurent.goubet@obeo.fr
+team sbegaudeau
+	# 1106 commits  
+	sbegaudeau
+	stephane.begaudeau@obeo.fr
+team jmusset
+	# 421 commits  
+	jmusset
+team ylussaud
+	# 149 commits
+	yvan.lussaud@obeo.fr
+	ylussaud
+team other
+	cedric.brun@obeo.fr
+	Romain.Guider@obeo.fr
+	ed@willink.me.uk
+	pierre-charles.david@obeo.fr
+	romain.guider@obeo.fr
+
+
+# Guava
+
+#team bot
+#	# 414 commits
+#	guava.mirrorbot@gmail.com@8138a162-5c33-11de-8abc-d1c337b90d21
+#team ChrisPovirk
+#	# 875 commits
+#	cpovirk@google.com
+#team KurtKluever
+#	# 380 commits
+#	kak@google.com
+#team ColinDecker
+#	# 325 commits
+#	cgdecker@google.com
+#team CharlesFry
+#	# 280 commits
+#	fry@google.com
+#	fry@google.com@8138a162-5c33-11de-8abc-d1c337b90d21
+#team ChristianGruber
+#	# 160 commits
+#	cgruber@google.com
+#	cgruberatgoog@8138a162-5c33-11de-8abc-d1c337b90d21
+
+
+# Elasticsearch
+
+#team Kimchy
+#	kimchy@gmail.com
+#team SimonWillnauer
+#	simonw@apache.org
+#team MartijnGroningen
+#	martijn.v.groningen@gmail.com
+#team ClintonGormley
+#	clint@traveljury.com
+#team IgorMotov
+#	igor@motovs.org
+#team LucaCavanna
+#	cavannaluca@gmail.com
+#team AdrienGrand
+#	jpountz@gmail.com
+#team BoazLeskes
+#	b.leskes@gmail.com
+#team AlexanderReelsen
+#	alexander@reelsen.net
+#team KarelMinarik
+#	karel.minarik@elasticsearch.org
+#
+#
+#

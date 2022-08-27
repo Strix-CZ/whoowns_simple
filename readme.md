@@ -1,5 +1,10 @@
 # About Who-owns
-Who-owns extracts code ownership and authorship information from a version control system. Currently _git_ and _p4_ are supported.
+
+**WARNING** This project is not maintained since 2015.
+
+Who-owns extracts code ownership and authorship information from a version control system. Currently, _git_ and _p4_ are supported.
+A code owner is a person or a team who is responsible for an area in the codebase. Who-owns tries to extract this information by
+analyzing who is contributing to the area the most and by analyzing keywords used both in the codebase and in commit messages.
 
 ## Installation
 
